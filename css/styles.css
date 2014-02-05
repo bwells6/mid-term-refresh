@@ -1,9 +1,12 @@
 body {
 	background: url("../img/bg.png");
-
 }
 
-p{
+p {
+	font-family: 'Open Sans', sans-serif;
+}
 
-	font-family: 'Jolly Lodger', cursive;
+/* Helper Classes */
+.showgrid {
+	background: url("../img/grid-bg.png");
 }
